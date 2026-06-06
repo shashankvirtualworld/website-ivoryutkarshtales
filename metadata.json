@@ -1,0 +1,6 @@
+{
+  "name": "Ivory Utkarsh Tales",
+  "description": "High-end cinematic wedding photography and film studio featuring digital editorial journalism, archival wedding storytelling, and elegant photography collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
